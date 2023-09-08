@@ -1,8 +1,8 @@
 #include <unistd.h>
 #include <string.h>
-/*
+/**
  * main - This return the output as error
- * Return 1 as success
+ * Return: 1 as success
 */
 int main(void)
 {
