@@ -1,9 +1,9 @@
 #include <unistd.h>
 #include <string.h>
 /*
- * This return the output as error
+ * main - This return the output as error
  * Return 1 as success
- */
+*/
 int main(void)
 {
 /*
