@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main  --prints  a to z
+ * main  - prints  a to z
  * Return : 0
  */
 int main(void)
