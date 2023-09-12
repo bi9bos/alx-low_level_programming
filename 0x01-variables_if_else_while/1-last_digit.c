@@ -1,5 +1,6 @@
 #include <stdlib.h>
-#include <time.h>
+q#include <time.h>
+#include <stdio.h>
 /*
  * main -  displays the last digit
  * Return : 0 always
