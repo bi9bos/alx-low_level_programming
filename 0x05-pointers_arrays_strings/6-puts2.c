@@ -18,7 +18,7 @@ void puts2(char *str)
 	{
 		y++;
 		longi++;
-        }
+	}
 
 	t = longi - 1;
 
